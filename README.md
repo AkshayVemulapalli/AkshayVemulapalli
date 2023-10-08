@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkshayVemulapalli
-- 👀 I’m interested in Computer Science and Artificial Intelligence
-- 🌱 I’m currently learning Natural Language Processing
+- 👀 I’m interested in Software Engineering and Artificial Intelligence
+- 🌱 I’m currently learning Web Development
 - 📫 Email: akshayv4500@gmail.com
 
 <!---
