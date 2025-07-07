@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkshayVemulapalli
 - 👀 I’m interested in Software Engineering and Artificial Intelligence
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently working on compilers at Meta
 - 📫 Email: akshayv4500@gmail.com
 
 <!---
